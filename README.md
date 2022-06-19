@@ -5,3 +5,5 @@ Some famous and classical algorithms in Linear Algebra implemented using Python
 # Algorithms
 - Gram-Schmidt with column pivoting
 - Householder Reflection
+# References
+- Linear Algebra and Learning From Data ~ Gilbert Starng
