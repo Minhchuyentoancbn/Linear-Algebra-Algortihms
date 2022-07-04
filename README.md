@@ -7,6 +7,7 @@ Some famous and classical algorithms in Linear Algebra implemented using Python
 - Householder Reflection
 - Arnoldi Iteration and Lanczos
 - Fourier Discrete Transform - DFT
+- Haar Wavelet Transform
 # References
 - Linear Algebra and Learning From Data ~ Gilbert Starng
 - Matrix Computations 4th edition ~ Gene H. Golub and Charles F. Van Loan
